@@ -65,4 +65,5 @@ library
                         Control.Effect.Parameterised.State
 
   build-depends:        base < 5,
-                        type-level-sets >= 0.8.7.0
+--                        type-level-sets >= 0.8.7.0
+                        type-level-sets
